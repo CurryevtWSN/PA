@@ -7,6 +7,7 @@ import seaborn as sns
 import shap
 import sklearn
 import joblib
+import xgboost
 
 #%%不提示warning信息
 st.set_option('deprecation.showPyplotGlobalUse', False)
